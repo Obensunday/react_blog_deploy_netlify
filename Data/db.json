@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "April 25, 2023 10:04:47 PM",
+      "body": "In the context of ReactJS, \"mounting\" refers to the process of creating a React component and inserting it into the DOM1. When a component is mounted, it means that the initialization of the component is completed and the component is ready to be rendered on the page2.\nIn React, components can be mounted using the ReactDOM.render() method, which takes a React component and a DOM element as arguments and renders the component into the specified DOM element1."
+    }
+  ]
+}
